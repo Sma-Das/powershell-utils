@@ -1,0 +1,3 @@
+[submodule "bypass/amsi/civero"]
+	path = bypass/amsi/civero
+	url = https://github.com/Civero/AMSI-Bypass.git
