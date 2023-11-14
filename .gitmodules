@@ -1,3 +1,6 @@
 [submodule "bypass/amsi/civero"]
 	path = bypass/amsi/civero
 	url = https://github.com/Civero/AMSI-Bypass.git
+[submodule "bypass/amsi/Kara_CSharp"]
+	path = bypass/amsi/Kara_CSharp
+	url = https://github.com/Kara-4search/BypassAMSI_CSharp.git
